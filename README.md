@@ -1,5 +1,3 @@
-# di-danilenko.github.io
-
 ### About
 I am a PhD candidate at Potsdam Institute for Climate Impact Research. My work focuses on the following topics: 
 - evidence synthesis methods,
