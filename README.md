@@ -1,5 +1,5 @@
 ### About
-I am a PhD candidate at Potsdam Institute for Climate Impact Research. My work focuses on the following topics: 
+I am a PhD student at Potsdam Institute for Climate Impact Research. My work focuses on the following topics: 
 - evidence synthesis methods,
 - empirical ex-post policy evaluations, 
 - intersectional inequality in the context of climate adaptation and mitigation, 
